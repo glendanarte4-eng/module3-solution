@@ -1,0 +1,17 @@
+/* Make the tall section tall enough to scroll */
+.tall-section {
+  height: 1000px; /* adjust as needed */
+  background-color: #f2f2f2; /* light gray background */
+  padding: 20px;
+}
+
+/* Mobile dropdown background color */
+.navbar-collapse {
+  background-color: #ddd; /* distinguish from main content */
+}
+
+/* Optional: Style the page heading */
+h1 {
+  margin: 40px 0;
+  font-family: Arial, sans-serif;
+}
